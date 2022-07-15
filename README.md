@@ -1,5 +1,5 @@
 # OOP_Bomberman
-Bài tập lớn game Bomberman môn Lập trình hướng đối tượng
+Java version of the NES classic Bomberman game
 
 ---
 
